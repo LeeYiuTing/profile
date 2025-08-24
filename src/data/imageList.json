@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2025-07-30T15:41:10.007Z",
+  "totalCount": 6,
+  "images": [
+    {
+      "name": "bilibili.png",
+      "path": "/image/bilibili.png",
+      "size": 103749,
+      "extension": ".png"
+    },
+    {
+      "name": "douban.png",
+      "path": "/image/douban.png",
+      "size": 52014,
+      "extension": ".png"
+    },
+    {
+      "name": "headImage.jpg",
+      "path": "/image/headImage.jpg",
+      "size": 13448,
+      "extension": ".jpg"
+    },
+    {
+      "name": "weibo.png",
+      "path": "/image/weibo.png",
+      "size": 123425,
+      "extension": ".png"
+    },
+    {
+      "name": "weixin.png",
+      "path": "/image/weixin.png",
+      "size": 28690,
+      "extension": ".png"
+    },
+    {
+      "name": "wyy.png",
+      "path": "/image/wyy.png",
+      "size": 220285,
+      "extension": ".png"
+    }
+  ]
+}
